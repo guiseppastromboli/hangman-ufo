@@ -1,4 +1,6 @@
 # hangman-ufo
 
-hangman as ufo-version; project of codecademy c++ course
+hangman as ufo-version
+game for console
+project of codecademy c++ course
 with german or english codewords
